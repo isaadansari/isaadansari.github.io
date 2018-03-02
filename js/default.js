@@ -52,6 +52,7 @@
         },
         init: function () {
             app.detectDevice();
+            app._windowResize()
             app.initCountDown();
         }
     };
