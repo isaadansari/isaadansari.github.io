@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Creative Artist, Photographer, UX Designer & Developer with experience in creating CMS Systems like Joomla, Wordpress, DotNet and Web Applications, pursuing MBA's degree in Marketing & Advertisement from Biztek University.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+A tech geek who loves to delve into new Technologies. Detail oriented with excellent problem-solving & project management skills and demonstrated ability to produce high end results and complete projects in deadline-oriented environments.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[isaadansari@domain.com](mailto:isaadansari@gmail.com)
